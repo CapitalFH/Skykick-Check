@@ -1,0 +1,3 @@
+# Local tenant evidence must not be committed.
+skykick-check-*/
+TestResults*.xml
